@@ -1,4 +1,4 @@
-
+Enhance Notion for macOS with new Integration for Notion for macOS - OCR scanning and export to PDF, the #1 integration. Includes OCR scanning and export to PDF for a smoother
 
 
 
